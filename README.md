@@ -4,7 +4,7 @@ In the CodersCave Internship Program, I was assigned five tasks that required me
 
 The Normal tasks included in this internship are:
 
-Exploratory Data Analysis - Terrorism
-Email Spam Detection
+1. Exploratory Data Analysis - Terrorism
+2. Email Spam Detection
 
 I have documented my progress and uploaded all the relevant files for each task in this repository.
